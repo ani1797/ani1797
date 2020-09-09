@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there, I'm Ani 👋
+
+- 🔭 I'm currently working at [Accenture](https://www.accenture.com/ca-en) as a Advanced Application Engineer. 
+- 👯 I’m looking to collaborate on any open-source projects or personal pet projects.
+- 📫 I can be reached at my [email](mailto://ani.aggarwal@mail.utoronto.ca)
 
 <!--
 **ani1797/ani1797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
