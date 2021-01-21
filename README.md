@@ -1,6 +1,6 @@
 ## Hi there, I'm Ani 👋
 
-- 🔭 I'm currently working at [Accenture](https://www.accenture.com/ca-en) as a Advanced Application Engineer. 
+- 🔭 I'm currently working at [Manulife/John Hancock](https://www.manulife.ca).
 - 👯 I’m looking to collaborate on any open-source projects or personal pet projects.
 - 📫 I can be reached at my [email](mailto://ani.aggarwal@mail.utoronto.ca)
 
