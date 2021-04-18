@@ -18,7 +18,7 @@
 - 📫 Reach me by [email](mailto://ani.aggarwal@mail.utoronto.ca) or message me at [linkedin](https://www.linkedin.com/in/aniaggarwal/)
 - 🎓 Education: Diploma from [Humber College](https://humber.ca/) and a Bachelors Degree from [York University](https://www.yorku.ca/)
 - 😄 Pronouns: He, Him
-- ⚡ Fun fact: I love 🌲 🔧 🍕
+- ⚡ Fun fact: I love 🔧 🍕
 - 📝 [Resume](#)
 
 
