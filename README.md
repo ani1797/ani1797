@@ -24,7 +24,7 @@
 
 <h2 align="center">Langages and Tools</h2>
 <br />
-
+<br />
 <div style="display: grid; grid-template-columns: repeat(7, 1fr)">
   <img src="./png/git.png" alt="Git" height="25px" />
   <img src="./png/github.png" alt="GitHub" height="25px" />
