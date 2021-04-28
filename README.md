@@ -46,6 +46,5 @@
   <img src="./png/cloudfoundry.png" alt="Cloud Foundry" height="25px" />
 </div>
 
-
 <br />
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ani1797&show_icons=true&theme=nord" alt="ani1797" /> -->
