@@ -9,7 +9,6 @@
   </a>
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ani1797.ani1797)
 <br />
 
 - 🔭 I'm working at [Manulife](https://www.manulife.ca) [@manulife-ca](https://github.com/manulife-ca)
