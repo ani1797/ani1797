@@ -85,13 +85,12 @@ Staff Engineer with 8+ years of experience spanning full-stack application devel
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white&color=0d1117)
 ![Cloud Foundry](https://img.shields.io/badge/Cloud_Foundry-0C9ED5?style=for-the-badge&logo=cloudfoundry&logoColor=white&color=0d1117)
 
-## GitHub Stats
+## Current Focus
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ani1797&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ani1797&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Top Languages" height="170"/>
-</div>
+- Designing **agentic AI architectures** for autonomous decision-making in financial services
+- Building **enterprise RAG pipelines** with multi-source retrieval and domain-specific fine-tuning
+- Scaling **AI platform infrastructure** to support global GenAI adoption across business units
+- Exploring **multimodal AI** applications in insurance document processing and retail analytics
 
 ---
 
