@@ -1,0 +1,18 @@
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#161b22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a1b3a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)" rx="0"/>
+  <!-- Subtle accent line -->
+  <rect x="80" y="232" width="120" height="3" rx="1.5" fill="#58a6ff" opacity="0.7"/>
+  <!-- Name -->
+  <text x="80" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" fill="#e6edf3">Anirudh Aggarwal</text>
+  <!-- Title -->
+  <text x="80" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500" fill="#8b949e">Staff Engineer  |  AI &amp; Platform Engineering</text>
+  <!-- Tagline -->
+  <text x="80" y="200" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-style="italic" fill="#58a6ff">From infrastructure to intelligence &#x2014; engineering AI systems that deliver business value</text>
+</svg>
