@@ -92,23 +92,6 @@ Staff Engineer with 8+ years of experience spanning full-stack application devel
 - Scaling **AI platform infrastructure** to support global GenAI adoption across business units
 - Exploring **multimodal AI** applications in insurance document processing and retail analytics
 
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ani1797&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=ani1797&theme=github-dark-blue&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ani1797&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ani1797&color=blueviolet&style=flat-square&label=Profile+Views"/>
-</div>
-
-
 ---
 
 <div align="center">
